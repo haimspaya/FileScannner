@@ -1,0 +1,46 @@
+===== Scan Report 2025-11-22 20:03:04 =====
+
+File Name: hello.py
+Path: C:\Users\haims\Downloads\file_samples\hello.py
+Owner: חיים-ספאיה\haims
+Date Created: 2025-11-22 19:51:07
+Last Changed: 2025-11-14 10:09:28
+VirusTotal Status: None
+Detections: ['KeyloggerDetector: No suspicious patterns found']
+-----------------------------
+
+File Name: sample_exe.exe
+Path: C:\Users\haims\Downloads\file_samples\sample_exe.exe
+Owner: חיים-ספאיה\haims
+Date Created: 2025-11-14 10:10:57
+Last Changed: 2025-11-14 10:10:57
+VirusTotal Status: {'malicious': 0, 'suspicious': 0, 'undetected': 61, 'harmless': 0, 'timeout': 1, 'confirmed-timeout': 1, 'failure': 1, 'type-unsupported': 12}
+Detections: ['KeyloggerDetector: No suspicious patterns found']
+-----------------------------
+
+File Name: sample_script.py
+Path: C:\Users\haims\Downloads\file_samples\sample_script.py
+Owner: חיים-ספאיה\haims
+Date Created: 2025-11-08 10:43:24
+Last Changed: 2025-11-14 10:09:28
+VirusTotal Status: None
+Detections: ['KeyloggerDetector: No suspicious patterns found']
+-----------------------------
+
+File Name: scanner_stub.dll
+Path: C:\Users\haims\Downloads\file_samples\scanner_stub.dll
+Owner: חיים-ספאיה\haims
+Date Created: 2025-11-08 10:43:24
+Last Changed: 2025-11-14 10:09:28
+VirusTotal Status: None
+Detections: ['KeyloggerDetector: No suspicious patterns found']
+-----------------------------
+
+File Name: hello.exe
+Path: C:\Users\haims\Downloads\file_samples\dist\hello.exe
+Owner: חיים-ספאיה\haims
+Date Created: 2025-11-22 20:00:10
+Last Changed: 2025-11-22 20:00:13
+VirusTotal Status: None
+Detections: ['UPX: unpacked successfully to C:\\Users\\haims\\AppData\\Local\\Temp\\unpacked_os6bh9bq\\hello.exe', 'KeyloggerDetector: No suspicious patterns found']
+-----------------------------
